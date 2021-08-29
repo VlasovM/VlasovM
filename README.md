@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maksim Vlasov!  
-- 👀 I’m interested in learning programming, learning English, literature, GYM, swimming, travelling and playing guitar;
+- 👀 I’m interested in learning programming, learning English, literature, GYM, basketball, travelling and playing guitar;
 - 🌱 I’m currently learning Java on the Skillbox;
 
 <!---
