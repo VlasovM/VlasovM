@@ -8,7 +8,7 @@ RU:
 https://drive.google.com/file/d/1AfYXHr9Q5jp8GOxcKrHKLP9Hl3sf8UPC/view?usp=sharing
 https://drive.google.com/file/d/1kmP7PMfoiYvgE5CIMxUi-Q-BDIkcLmJG/view?usp=sharing
 
-Один сертификат по Spring от Zaur T.
+Один сертификат по Spring от Zaur T.:
 https://drive.google.com/file/d/15fLyNsbOtVdpRDBXg3lhLte16b4rQtMK/view?usp=sharing
 
 Помимо программирования увлекаюсь игрой на гитаре, шахматами, чтением литературы и компьютерными играми (на которые времи остается не так много).
