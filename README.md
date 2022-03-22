@@ -4,9 +4,12 @@ RU:
 
 Немного о себе: закончил Национальный Исследовательский Институт "МЭИ" по специальности Теплотехника и теплоэнергетика. Отработал год в сфере энергетики и понял, что для меня это не очень интересно. Думал, чем хочется заниматься в жизни и пришёл к программированию. В данный момент учусь на платформе SkillBox и параллельно смотрю лекции у разных авторов на Udemy. 
 
-Два диплома с окончания блока лекций у автора Alishev:
+Два сертификата с окончания блока лекций по Java core у автора Alishev:
 https://drive.google.com/file/d/1AfYXHr9Q5jp8GOxcKrHKLP9Hl3sf8UPC/view?usp=sharing
 https://drive.google.com/file/d/1kmP7PMfoiYvgE5CIMxUi-Q-BDIkcLmJG/view?usp=sharing
+
+Один сертификат по Spring от Zaur T.
+https://drive.google.com/file/d/15fLyNsbOtVdpRDBXg3lhLte16b4rQtMK/view?usp=sharing
 
 Помимо программирования увлекаюсь игрой на гитаре, шахматами, чтением литературы и компьютерными играми (на которые времи остается не так много).
 
@@ -21,9 +24,12 @@ Hello everyone my name is Maxim. Welcome to my Git!I have only one mini-project 
 
 A little about myself: graduated from the National Research Institute "MPEI" with a degree in Heat Engineering and heat power engineering. I worked for a year in the energy sector and realized that it was not very interesting for me. I thought about what I wanted to do in life and came to programming. At the moment I am studying on the SkillBox platform and simultaneously watching lectures from different authors on Udemy.
 
-Two diplomas from the end of the lecture block from the author Alishev:
+Two certificates from the end of the Java core lecture block from the author Alishev:
 https://drive.google.com/file/d/1AfYXHr9Q5jp8GOxcKrHKLP9Hl3sf8UPC/view?usp=sharing
 https://drive.google.com/file/d/1kmP7PMfoiYvgE5CIMxUi-Q-BDIkcLmJG/view?usp=sharing
+
+One certificate from the end of the Spring lecture block from the author Zaur T.:
+https://drive.google.com/file/d/15fLyNsbOtVdpRDBXg3lhLte16b4rQtMK/view?usp=sharing
 
 In addition to programming, I am fond of playing guitar, chess, reading literature and computer games (for which there is not much time left).
 
