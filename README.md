@@ -13,5 +13,7 @@ In addition to programming, I am fond of playing guitar, chess, reading literatu
 
 I have a long and difficult path ahead of me in my studies, and only a small part has been passed. Answering the question: "Why do you need this?" - I realized that I was interested in creating and creating something new, and programming is such an area.
 
+You can see mu resume here: https://drive.google.com/file/d/1apFdNnJliy31yxVY7sLvb-2eeWgUFEEA/view?usp=sharing
+
 If there are any questions or tips, you can contact me here:
 https://t.me/JaVlasov
