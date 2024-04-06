@@ -1,4 +1,4 @@
-# **Java Backend Developer** in [Sberbank](https://www.sberbank.ru/ru/person)
+# **Java Backend Developer**
 
  **Personal projects in git:**
 
@@ -7,6 +7,10 @@
   - Design Pattern from Book O'Reilly: https://github.com/VlasovM/Design-patterns <br>
   - Home tasks from the **Spring Framework** course from [OTUS](https://otus.ru/): https://github.com/VlasovM/2023-11-otus-spring-vlasov <br>
 <br>
+
+**Work experience:**
+
+  - [Sberbank](https://www.sberbank.ru/ru/person) 11/2022 - Present
 
 **Hard Skills:**
 
