@@ -13,7 +13,7 @@
 
   - Java Core, Collections Framework
   - Spring, Spring Boot, Spring Data JPA, Spring Security, Spring Shell, Spring kafka
-  - REST, 
+  - REST
   - Design Patterns
   - SQL: MySQL, MsSQL, PostgreSQL, H2
   - Docker
