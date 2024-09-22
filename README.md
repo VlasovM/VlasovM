@@ -1,4 +1,9 @@
 # **Java Backend Developer**
+<div id="badges">
+  <a href="https://openjdk.org/projects/jdk/17/">
+    <img src="https://img.shields.io/badge/t.me-blue?logo=telegram&logoColor=white" alt="TG Badge"/>
+  </a>
+</div>
 
 **Work experience:**
 
